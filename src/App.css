@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #dc0a2d;
+  height: 100px;
+  padding: 20px;
+  color: #eaeaea;
+  margin-bottom: 30px;
+}
+
+.App-header > a {
+  color: #eaeaea;
+}
+
+.App-header > a:hover {
+  color: #eaeaea;
+  text-decoration: none;
+}
+
+.App-title {
+  font-size: 60px;
+}
+
+.App-intro {
+  font-size: large;
+}
